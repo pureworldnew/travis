@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/travis/static/css/main.31f4fbea.chunk.css",
-    "main.js": "/travis/static/js/main.67249a05.chunk.js",
-    "main.js.map": "/travis/static/js/main.67249a05.chunk.js.map",
+    "main.js": "/travis/static/js/main.af1cefa0.chunk.js",
+    "main.js.map": "/travis/static/js/main.af1cefa0.chunk.js.map",
     "runtime-main.js": "/travis/static/js/runtime-main.ebd8a74c.js",
     "runtime-main.js.map": "/travis/static/js/runtime-main.ebd8a74c.js.map",
     "static/js/2.d3bb0f10.chunk.js": "/travis/static/js/2.d3bb0f10.chunk.js",
     "static/js/2.d3bb0f10.chunk.js.map": "/travis/static/js/2.d3bb0f10.chunk.js.map",
     "index.html": "/travis/index.html",
-    "precache-manifest.741cf0ea19d8fa7c6cb80968954a0f7d.js": "/travis/precache-manifest.741cf0ea19d8fa7c6cb80968954a0f7d.js",
+    "precache-manifest.d5a98133e584ac6c8443f9a52ba96976.js": "/travis/precache-manifest.d5a98133e584ac6c8443f9a52ba96976.js",
     "service-worker.js": "/travis/service-worker.js",
     "static/css/main.31f4fbea.chunk.css.map": "/travis/static/css/main.31f4fbea.chunk.css.map",
     "static/js/2.d3bb0f10.chunk.js.LICENSE.txt": "/travis/static/js/2.d3bb0f10.chunk.js.LICENSE.txt",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.ebd8a74c.js",
     "static/js/2.d3bb0f10.chunk.js",
     "static/css/main.31f4fbea.chunk.css",
-    "static/js/main.67249a05.chunk.js"
+    "static/js/main.af1cefa0.chunk.js"
   ]
 }
