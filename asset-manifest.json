@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/personal-react-web/static/css/main.31f4fbea.chunk.css",
+    "main.js": "/personal-react-web/static/js/main.fac41a9c.chunk.js",
+    "main.js.map": "/personal-react-web/static/js/main.fac41a9c.chunk.js.map",
+    "runtime-main.js": "/personal-react-web/static/js/runtime-main.6d2c3e14.js",
+    "runtime-main.js.map": "/personal-react-web/static/js/runtime-main.6d2c3e14.js.map",
+    "static/js/2.d3bb0f10.chunk.js": "/personal-react-web/static/js/2.d3bb0f10.chunk.js",
+    "static/js/2.d3bb0f10.chunk.js.map": "/personal-react-web/static/js/2.d3bb0f10.chunk.js.map",
+    "index.html": "/personal-react-web/index.html",
+    "precache-manifest.77be7fcfb640f6c828211301fce52949.js": "/personal-react-web/precache-manifest.77be7fcfb640f6c828211301fce52949.js",
+    "service-worker.js": "/personal-react-web/service-worker.js",
+    "static/css/main.31f4fbea.chunk.css.map": "/personal-react-web/static/css/main.31f4fbea.chunk.css.map",
+    "static/js/2.d3bb0f10.chunk.js.LICENSE.txt": "/personal-react-web/static/js/2.d3bb0f10.chunk.js.LICENSE.txt",
+    "static/media/github_icon.svg": "/personal-react-web/static/media/github_icon.76d344f0.svg",
+    "static/media/linkedln_icon.png": "/personal-react-web/static/media/linkedln_icon.b421b93a.png",
+    "static/media/new.png": "/personal-react-web/static/media/new.04ba7db2.png",
+    "static/media/resume.pdf": "/personal-react-web/static/media/resume.17321a7c.pdf",
+    "static/media/resume.png": "/personal-react-web/static/media/resume.e8154063.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6d2c3e14.js",
+    "static/js/2.d3bb0f10.chunk.js",
+    "static/css/main.31f4fbea.chunk.css",
+    "static/js/main.fac41a9c.chunk.js"
+  ]
+}
