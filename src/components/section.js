@@ -43,19 +43,37 @@ export default class Section extends Component {
             <Date date="2012~2022" />
           </div>
           <div>
-            <Title name="Alight Solutions" link="https://www.carters.com/" />
+            <Title name="Alight Solutions" link="https://www.ucla.edu/" />
             <div id="labels">
-              <Label label="HTML" />
-              <Label label="CSS" />
-              <Label label="Typescript" />
+              <Label label="HTML5" />
+              <Label label="CSS3" />
+              <Label label="JS/TS" />
               <Label label="React/Redux-Saga/Hooks" />
               <Label label="Node/Express" />
-              <Label label="Express" />
               <Label label="Azure AD" />
-              <Label label="AWS Cognito" />
+              <Label label="AWS EC2/Lambda/RDS/Serverless/S3" />
             </div>
             <Desc
-              desc="Migration from AWS Cognito User Auth into Azure AD Auth, Front-end page development in Typescript/React/Redux-Saga/Hooks/, Back-end REST api management with Auth middleware creation in Node/Express
+              desc="Building Front-end in React/Redux-Saga/Hooks/Custom Hook/React Material
+              UI/React Context api/Performance tuning
+              React-Routing/JWT authentication/Redux-Thunk
+              Building Back-end REST api system in Nodejs/Express/MongoDB
+              3
+              rd party api integration in Twilio/Sendgrid/Google Calendar/
+              Deployment using AWS EC2 / DynamoDB using Nginx configuration, PM2
+              React Native Hybrid mobile app development and publish into Google/App
+              store
+              AWS Lambda/Serverless development / deployment in Node.js
+              Container management using Kubernetes/Docker
+              AWS Cognito user authentication / Azure AD OAuth2 user authentication
+              React Unit Testing with Jest/React testing library.
+              Managing project with building MVP from scratch, and leading team with 3
+              Junior developers with maintenance of that product.
+              Front-end web pages in AngularJS/Angular/Material UI, in full responsive
+              mode with Figma design
+              Dashboard development/maintenance in PHP/Laravel/ Python/Django
+              Web scrapping using Python selenium/Node puppeteer
+              Deployment of project into Hosting server like Godaddy
 "
             />
           </div>
@@ -68,7 +86,7 @@ export default class Section extends Component {
           <div>
             <Title
               name="Texas A & M Health Science Center"
-              link="https://meetwithanyone.com/"
+              link="https://mend.com/"
             />
             <div id="labels">
               <Label label="JavaScript" />
@@ -82,17 +100,14 @@ export default class Section extends Component {
               <Label label="MySQL" />
             </div>
             <Desc
-              desc="Developed Front-end Web Pages according to Figma design, in full responsive mode
-,	Implemented React UI features with REST API integration using React, Redux-Saga, Material-UI.
-,	Google Calendar API integration in Node/Express
-,	Twilio Message/SMS API integration, Sendgrid email integration
-,	Performance fine tuning by removing unnecessary component rendering.
-,	Node/Express REST system architecture design/implementation with DB design
-,	Deployment using AWS EC2 / RDS with Nginx configuration, PM2
-,	Leading Development progress in a team with some junior developers
-,	Hybrid react native mobile app development
-,	React Unit Testing with Jest/React testing library.
-,	SPA Development and REST api development using Vue/Vuex/Vuetify/JS/Python/Django
+              desc="Building several website / web application using
+              HTML5/CSS3/Bootstrap/Jquery/Javascript from scratch.
+              Basic User authentication/authorization implementation.
+              Implemented a back-end REST system in PHP/Laravel/Codeigniter
+              Integrated 3rd party APIs like Facebook, Stripe, Paypal, Google Maps, Google
+              Calendar, Sendgrid,
+              Database Design/Implementation according to the Business logic with MySQL
+              Query Optimization/Performance tuning( CRM )
 "
             />
           </div>

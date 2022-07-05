@@ -22,24 +22,14 @@ export default class Experience extends Component {
           <h2>&#187; Experience</h2>
         </div>
         <Job
-          co="Sky Republic Inc"
+          co="Alight Solutions"
           title="Contract - Senior Software developer"
-          date="Nov 2021 - Jan 2022"
+          date="Sep 2012 - May 2022"
         />
         <Job
-          co="With - meetwithanyone.com"
-          title="Full time - MERN stack Developer"
-          date="Apr 2019 - Oct 2021"
-        />
-        <Job
-          co="BMR Thermal Inc"
-          title="Contract - MERN stack Developer"
-          date="May 2017 - Mar 2019"
-        />
-        <Job
-          co="AllSocial"
-          title="Contract - Full stack Developer"
-          date="Feb 2014 - Apr 2017"
+          co="Texas A & M Health Science Center"
+          title="Full time - Web Developer"
+          date="Feb 2011 - Aug 2012"
         />
       </div>
     );
