@@ -11,7 +11,7 @@ import calendarIcon from "../icons/calendar.png";
 import videoIcon from "../icons/video.png";
 //Just name
 function Name() {
-  return <h2>Dante Roland</h2>;
+  return <h2>Travis Dalton</h2>;
 }
 
 //all social links
@@ -27,14 +27,14 @@ function SocialLinks(props) {
         Github
       </a>
       <a
-        href="https://www.linkedin.com/in/danteroland/"
+        href="https://www.linkedin.com/in/travisdev812/"
         target="_blank"
         rel="noopener noreferrer"
       >
         <img id="profile-icon-linkedin" src={linkedlnIcon} alt="" />
         LinkedIn
       </a>
-      <a href="mailto:danterolandupgmail.com" rel="noopener noreferrer">
+      <a href="mailto:travisdev812@gmail.com" rel="noopener noreferrer">
         <img id="profile-icon-linkedin" src={emailIcon} alt="" />
         Email Me
       </a>
@@ -43,21 +43,12 @@ function SocialLinks(props) {
         Resume
       </a>
       <a
-        href="https://calendly.com/danterolandup"
+        href="https://calendly.com/travisdev812"
         target="_blank"
         rel="noopener noreferrer"
       >
         <img id="profile-icon-linkedin" src={calendarIcon} alt="" />
         Calendar
-      </a>
-
-      <a
-        href="https://www.youtube.com/watch?v=wPZ78JcITb8&ab_channel=DanteRoland"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <img id="profile-icon-linkedin" src={videoIcon} alt="" />
-        Intro
       </a>
     </h6>
   );
@@ -67,7 +58,7 @@ function SocialLinks(props) {
 function Short(props) {
   return (
     <div className="padding-top" id="profile-description">
-      Senior Software Developer at Javascript/React/Node
+      Software Developer
     </div>
   );
 }
